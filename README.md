@@ -1,1 +1,1 @@
-# Python_Basic_Practice
+This folder contains basic python exercise and the practice problems.
